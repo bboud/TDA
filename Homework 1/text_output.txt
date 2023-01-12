@@ -1,0 +1,7 @@
+(base) ╭─cee@Brandons-MBP-5 ~/Documents/School/Topological Data Analysis/Homework 1 ‹main●›
+╰─$ R -q
+> source("what-is-tda-example.r")
+> barcode
+> pers.diag
+> q()
+Save workspace image? [y/n/c]: n
